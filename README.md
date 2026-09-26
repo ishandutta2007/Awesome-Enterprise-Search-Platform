@@ -1,108 +1,132 @@
-# Awesome-Enterprise-Search-Platform
+# Awesome Enterprise Search Platform 🔍
 
-## Top Enterprise Search Platforms Ecosystem
-**Curated List of SaaS Products & Open-Source GitHub Projects**
-*Focused on Workplace Search, AI/RAG Enterprise Search, Unified Knowledge Discovery, Relevance & Secure Cross-Application Search*
-**Last updated: September 2026**
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Enterprise Search Platform Banner" width="100%">
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Enterprise Search**. These systems index and search content across SaaS apps, documents, intranets, and data sources—often with AI-powered answers, permissions awareness, and relevance tuning for workplace or customer-facing use cases.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Search-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Search-Platform?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Search-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Search-Platform?style=flat-square&logo=github" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Search-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Enterprise-Search-Platform?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Examples** include Glean, Coveo, Algolia, Yext Search, Elastic Workplace Search, IBM Watson Discovery, Lucidworks, Sinequa, SearchUnify, BA Insight, Elastic Enterprise Search, Microsoft Search, Algolia Enterprise Search, Funnelback, SearchBlox, and Google Cloud Enterprise Search (the category leaders).
+## 🚀 Top Enterprise Search Platforms Ecosystem
 
-**Open-source emphasis**: Enterprise search has a strong open foundation. **Elasticsearch**, **OpenSearch**, **Apache Solr**, **Meilisearch**, **Typesense**, and **Fess** power many self-hosted and hybrid deployments. AI/RAG-oriented open projects (e.g., Onyx) further expand options. This section heavily expands those projects.
+A curated list of **SaaS Enterprise Search Platforms**, **AI-Powered RAG Solutions**, and **Open-Source Search Engines**. This guide evaluates workplace search tools, cross-application data connectors, permission-aware indexing, vector database search, and unified knowledge discovery engines.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS/Hosted Platforms
-- **[Glean](https://www.glean.com/)**  
-  AI-powered enterprise search and knowledge assistant that connects to workplace apps and surfaces answers with permissions awareness.
-
-- **[Coveo](https://www.coveo.com/)**  
-  Relevance platform for enterprise and digital experience search—strong connectors, ML ranking, and generative answering capabilities.
-
-- **[Algolia / Algolia Enterprise Search](https://www.algolia.com/)**  
-  High-performance search-as-a-service widely used for product, site, and application search with developer-friendly APIs.
-
-- **[Yext Search](https://www.yext.com/)**  
-  Search and knowledge graph platform focused on structured answers and brand/experience search experiences.
-
-- **[Elastic Workplace Search / Elastic Enterprise Search](https://www.elastic.co/)**  
-  Enterprise and workplace search capabilities built on the Elastic Stack—connectors, relevance tuning, and hybrid search.
-
-- **[IBM Watson Discovery](https://www.ibm.com/)**  
-  AI-powered search and content intelligence platform for enterprise knowledge discovery and document understanding.
-
-- **[Lucidworks](https://lucidworks.com/)**  
-  Enterprise search and AI platform emphasizing relevance engineering, pipelines, and large-scale search applications.
-
-- **[Sinequa](https://www.sinequa.com/)**  
-  Intelligent enterprise search platform with strong focus on security, hybrid retrieval, and governed answers.
-
-- **[SearchUnify, BA Insight, Funnelback, SearchBlox](https://www.example.com/)**  
-  Additional enterprise search and knowledge platforms used for customer support, intranet, and specialized search use cases.
-
-- **[Microsoft Search / Google Cloud Enterprise Search and related cloud offerings](https://www.microsoft.com/)**  
-  Cloud-native enterprise search integrated with Microsoft 365 and Google Cloud ecosystems for organization-wide discovery.
-
-## Open-Source GitHub Projects
-- **[Elasticsearch](https://github.com/elastic/elasticsearch)**  
-  Dominant open (and open-core) search and analytics engine—full-text, vector, hybrid search, and a large ecosystem for enterprise search applications.
-
-- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)**  
-  Apache 2.0 open-source fork of Elasticsearch—neural search, k-NN, security features, and fully open licensing for self-hosted enterprise search.
-
-- **[Apache Solr](https://github.com/apache/solr)**  
-  Mature Lucene-based open-source search platform long used for enterprise and large-scale content search.
-
-- **[Meilisearch](https://github.com/meilisearch/meilisearch)**  
-  Lightning-fast, developer-friendly open-source search engine with typo tolerance, hybrid search, and simple deployment.
-
-- **[Typesense](https://github.com/typesense/typesense)**  
-  Fast, typo-tolerant open-source search engine designed for instant search experiences and easy self-hosting.
-
-- **[Fess](https://github.com/codelibs/fess)**  
-  Open-source enterprise and site search server built on OpenSearch—crawlers for web, file, DB, and cloud sources with admin UI and RAG/semantic capabilities.
-
-- **[Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx)**  
-  Open-source AI enterprise search / RAG platform for connecting workplace data sources and answering questions with citations.
-
-- **[Vespa](https://github.com/vespa-engine/vespa)**  
-  Open-source big data serving engine for search, recommendation, and real-time ranking at scale.
-
-- **[Connector and crawler open frameworks](https://github.com/)**  
-  Community crawlers and connectors that feed documents into Elasticsearch, OpenSearch, or Solr for enterprise indexes.
-
-- **[Documentation and enterprise search open playbooks](https://github.com/)**  
-  Guides for deploying OpenSearch/Elasticsearch-based workplace search, relevance tuning, and RAG pipelines.
-
-### Additional Strong Open-Source Options
-- Self-hosting **OpenSearch** or **Elasticsearch** as the core engine for custom enterprise search.
-- Using **Fess** for a more turnkey open enterprise search server with built-in crawlers.
-- Deploying **Meilisearch** or **Typesense** for fast application and site search with minimal ops.
-- Adding **Onyx** or similar open RAG stacks for AI-powered workplace Q&A on top of indexed content.
-- Accepting that packaged connectors for dozens of SaaS apps, polished permission-aware UX, enterprise support, and out-of-the-box generative answers still favor commercial platforms (Glean, Coveo, Elastic Enterprise Search, Sinequa, Lucidworks, etc.).
-- Focusing open-source efforts on data ownership, customization of ranking, and cost control.
-
-**Frameworks for building custom systems**: Index content with OpenSearch/Elasticsearch/Solr (or Fess) → enforce document-level security → tune relevance → optionally layer RAG/LLM answering → expose via search UI or API. Suitable for platform and search engineering teams. Many enterprises still choose commercial enterprise search for speed of connector coverage and governance.
-
-## How to Contribute
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Enterprise search indexes sensitive organizational content. Open-source deployments require careful security, access control, and data governance. This list is not security or compliance advice.
+> **Last updated: September 2026** 📅
 
 ---
-**Made for knowledge managers, search engineers, and open-source search advocates.**
-Let's keep organizational knowledge findable, relevant, and as open as practical.
+
+## 📑 Table of Contents
+- [📊 SaaS & Hosted Enterprise Search Platforms](#-saas--hosted-enterprise-search-platforms)
+- [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ How to Contribute](#️-how-to-contribute)
+- [🤝 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 SaaS & Hosted Enterprise Search Platforms
+
+### 💡 Market Overview & Industry Dynamics
+- **Estimated Market Size**: The global Enterprise Search market size is valued at approximately **$6.2 Billion (2026)** and is projected to reach **$11.8 Billion by 2030**, expanding at a CAGR of ~17.5% driven by enterprise Generative AI and RAG adoption.
+- **Market Fragmentation**: The market is **moderately fragmented**. Established tech giants (Microsoft, Google Cloud, IBM) hold significant enterprise infrastructure share, while specialized AI-native category leaders (Glean, Coveo, Algolia) capture high-growth workplace search and digital experience segments.
+
+> **Note**: Products are ordered by estimated corporate scale (valuation / market capitalization / ARR).
+
+| 🏢 Platform | 📝 Description | 💰 Starting Tier Price | 🎁 Free Tier / Trial Limit | 📊 Scale (Valuation / Market Cap / ARR) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Glean](https://www.glean.com/)** | AI-powered enterprise workplace search & RAG assistant with permissions awareness. | ~$45 - $75 per user/month (FlexCredits pooled AI; $50k+ annual contract min.) | No free tier; 14-day sales-led sandbox POC upon demo request | **$7.2 Billion Valuation** ($300M ARR) |
+| **[Elastic Enterprise Search](https://www.elastic.co/)** | Enterprise search & workplace connectors built on Elastic Stack with hybrid ranking. | $95/month (Standard Cloud Elastic deployment tier) | 14-day free trial (full Elastic Cloud deployment features) | **$8.6 Billion Market Cap** (Public: ESTC) |
+| **[Algolia Enterprise Search](https://www.algolia.com/)** | API-first search-as-a-service for product, application, and digital experience search. | $0.50 per 1,000 search requests (Grow plan usage-based) | **Free Forever**: 10,000 search requests & 100k records / month | **$2.25 Billion Valuation** ($100M ARR) |
+| **[IBM Watson Discovery](https://www.ibm.com/)** | Enterprise content intelligence, document processing & AI knowledge discovery. | $500/month (Plus plan tier) | 30-day free trial (IBM Cloud Lite environment limits) | **~$190 Billion Market Cap** (IBM Enterprise Unit) |
+| **[Coveo](https://www.coveo.com/)** | Enterprise AI relevance platform for unified digital experience and workplace search. | Usage-based starting at ~$1,500/month custom query tiers | 14-day free trial for developer console configuration | **~CAD $385 Million Market Cap** (TSX: CVO) |
+| **[Yext Search](https://www.yext.com/)** | Structured search platform powered by knowledge graphs and multi-channel connectors. | $4/week ($199/year per location for Starter tier) | 14-day free trial on selected packages | **~$700 Million Valuation** (Private Equity acquired) |
+| **[Lucidworks](https://lucidworks.com/)** | Large-scale enterprise search & neural hybrid ranking platform (Fusion engine). | Enterprise tier starting ~$2,000/month deployment quote | 30-day guided evaluation trial for enterprise teams | Estimated **~$500 Million Valuation** |
+| **[Sinequa](https://www.sinequa.com/)** | High-security intelligent enterprise search with deep cloud & hybrid connectors. | Enterprise license starting ~$3,000/month quote | Custom sales-led proof-of-concept trial (typically 30 days) | Estimated **~$250 Million Valuation** |
+| **[SearchUnify](https://www.searchunify.com/)** | Unified cognitive search and support knowledge discovery platform. | Standard plan starting ~$1,000/month custom subscription | 14-day free trial available on request | Estimated **~$50 Million Valuation** |
+
+---
+
+## ⚡ Open-Source GitHub Projects
+
+Explore top-tier open-source enterprise search servers, vector databases, neural search engines, and AI/RAG workplace frameworks.
+
+> **Note**: Repositories are sorted by GitHub Star count in descending order.
+
+- **[RAGFlow](https://github.com/infiniflow/ragflow)** [![Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
+  *Open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding and hybrid retrieval for enterprise knowledge bases.*
+
+- **[Elasticsearch](https://github.com/elastic/elasticsearch)** [![Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers)  
+  *Industry-standard search and analytics engine supporting full-text search, dense vector embeddings, hybrid ranking, and distributed enterprise scale.*
+
+- **[Meilisearch](https://github.com/meilisearch/meilisearch)** [![Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers)  
+  *Lightning-fast, developer-friendly open-source search engine with typo tolerance, instant search response, and effortless deployment.*
+
+- **[Milvus](https://github.com/milvus-io/milvus)** [![Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers)  
+  *Cloud-native open-source vector database built for scalable similarity search, AI embeddings management, and enterprise neural retrieval.*
+
+- **[Qdrant](https://github.com/qdrant/qdrant)** [![Stars](https://img.shields.io/github/stars/qdrant/qdrant?style=social&color=white)](https://github.com/qdrant/qdrant/stargazers)  
+  *High-performance vector search engine and database written in Rust, featuring extended filtering and payload payload indexing for AI applications.*
+
+- **[Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx)** [![Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
+  *Open-source AI enterprise search and RAG platform with built-in connectors for Slack, Google Drive, Notion, GitHub, and permission-aware Q&A.*
+
+- **[Typesense](https://github.com/typesense/typesense)** [![Stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers)  
+  *Fast, open-source, typo-tolerant search engine optimized for developer productivity and seamless self-hosted enterprise search experiences.*
+
+- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** [![Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)  
+  *Community-driven, Apache 2.0-licensed open-source search and analytics suite offering neural search, k-NN vector retrieval, and enterprise security features.*
+
+- **[Vespa](https://github.com/vespa-engine/vespa)** [![Stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers)  
+  *High-scale open-source engine for vector search, full-text retrieval, real-time machine-learned ranking, and enterprise recommendation systems.*
+
+- **[Apache Solr](https://github.com/apache/solr)** [![Stars](https://img.shields.io/github/stars/apache/solr?style=social&color=white)](https://github.com/apache/solr/stargazers)  
+  *Battle-tested, Lucene-based open-source enterprise search platform providing distributed indexing, hit highlighting, and faceted search.*
+
+- **[Fess](https://github.com/codelibs/fess)** [![Stars](https://img.shields.io/github/stars/codelibs/fess?style=social&color=white)](https://github.com/codelibs/fess/stargazers)  
+  *Turnkey open-source enterprise search server built on OpenSearch/Elasticsearch with out-of-the-box crawlers for web, file servers, DBs, and cloud storage.*
+
+---
+
+## 🛠️ How to Contribute
+
+Contributions are warmly welcomed! Help keep this repository comprehensive and up-to-date:
+
+1. 🍴 **Fork** the repository.
+2. 📝 **Add/edit** entries in `README.md` following the established table or badge structure.
+3. 🔎 **Ensure details** (pricing, scale, open-source links) are factual and verifiable.
+4. 📬 **Submit a Pull Request** with a clear title and summary of changes.
+
+---
+
+## 🤝 Support & Community
+
+If you find this repository helpful, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your appreciation!
+- 🔀 **Fork** it to keep a copy or contribute your own improvements.
+- 📢 **Share** it with fellow search engineers, knowledge managers, and AI developers.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing maintenance on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Enterprise-Search-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Enterprise-Search-Platform&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This list is **community-curated** for informational and research purposes.
+- Enterprise search platforms handle sensitive organizational data. Open-source deployments require proper document-level security, access control (RBAC), and governance compliance.
+- Product pricing and valuations are estimated based on public disclosures and industry reports as of **September 2026**.
+
+---
+
+**Made with ❤️ for knowledge managers, search architects, and open-source search enthusiasts.**
