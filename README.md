@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Search-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Search-Platform?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Search-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Search-Platform?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Search-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Search-Platform?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Search-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Enterprise-Search-Platform?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,7 +56,7 @@ A curated list of **SaaS Enterprise Search Platforms**, **AI-Powered RAG Solutio
 
 Explore top-tier open-source enterprise search servers, vector databases, neural search engines, and AI/RAG workplace frameworks.
 
-> **Note**: Repositories are sorted by GitHub Star count in descending order.
+> **Note**: Repositories are sorted by GitHub Stars_Count in descending order.
 
 - **[RAGFlow](https://github.com/infiniflow/ragflow)** [![Stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers)  
   *Open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding and hybrid retrieval for enterprise knowledge bases.*
