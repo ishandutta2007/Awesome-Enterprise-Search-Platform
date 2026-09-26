@@ -1,6 +1,6 @@
 # Awesome-Enterprise-Search-Platform
 
-# Top Enterprise Search Platforms Ecosystem
+## Top Enterprise Search Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Workplace Search, AI/RAG Enterprise Search, Unified Knowledge Discovery, Relevance & Secure Cross-Application Search*
 **Last updated: September 2026**
