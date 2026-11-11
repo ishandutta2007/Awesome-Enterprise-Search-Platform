@@ -49,7 +49,7 @@ A curated list of **SaaS Enterprise Search Platforms**, **AI-Powered RAG Solutio
 | **[Lucidworks](https://lucidworks.com/)** | Large-scale enterprise search & neural hybrid ranking platform (Fusion engine). | Enterprise tier starting ~$2,000/month deployment quote | 30-day guided evaluation trial for enterprise teams | Estimated **~$500 Million Valuation** |
 | **[Sinequa](https://www.sinequa.com/)** | High-security intelligent enterprise search with deep cloud & hybrid connectors. | Enterprise license starting ~$3,000/month quote | Custom sales-led proof-of-concept trial (typically 30 days) | Estimated **~$250 Million Valuation** |
 | **[SearchUnify](https://www.searchunify.com/)** | Unified cognitive search and support knowledge discovery platform. | Standard plan starting ~$1,000/month custom subscription | 14-day free trial available on request | Estimated **~$50 Million Valuation** |
-| **[Enhanciar](https://enhanciar.in)** | Company brain that answers from Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for a person to approve. | $24 per person a month, or $228 a year paid once; Enterprise custom | None; paid plans only, users bring their own AI key (Gemini, OpenAI or Anthropic) | **Bootstrapped** (founded 2026) |
+| **[Enhanciar](https://enhanciar.in)** | Company brain that answers from Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for a person to approve. | $35 per person a month, or $336 a year paid once; Enterprise custom | None; paid plans only, users bring their own AI key (Gemini, OpenAI or Anthropic) | **Bootstrapped** (founded 2026) |
 
 ---
 
